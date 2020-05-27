@@ -1,5 +1,7 @@
 {
   "name": "BelajarIonicScanBarcoder",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
